@@ -13,7 +13,7 @@ def dolar(valor):
 if __name__ == "__main__":
     resultado = dolar(100)
     print("Resultado = %f" % resultado)
-    
+    print('teste')
 
 
 
